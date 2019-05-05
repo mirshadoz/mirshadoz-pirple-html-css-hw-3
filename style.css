@@ -1,0 +1,26 @@
+body {
+  background-color: lightgreen;
+}
+
+p {
+  font-size: 26px;
+}
+
+li {
+  font-size: 18px;
+  font-style: italic;
+}
+
+h1, h2, h3 {
+  padding: 25px;
+}
+
+h1 {
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.instyle {
+  background-color: yellow;
+  font-weight: bold;
+}
